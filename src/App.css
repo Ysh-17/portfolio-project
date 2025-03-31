@@ -1,0 +1,24 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.main-layout {
+  display: flex;
+  flex: 1;
+  margin-top: 60px; /* Account for the fixed navbar height */
+}
+
+.content-area {
+  flex: 1;
+  margin-left: 18%; /* Match the sidebar width */
+  padding: 20px;
+  overflow-y: auto;
+  height: calc(100vh - 60px); /* Full height minus navbar */
+}
+
+.page-title {
+  font-size: 24px;
+  font-weight: bold;
+}

@@ -1,0 +1,21 @@
+{
+    "portfolio": [
+      {
+        "id": 1,
+        "loan_number": "L2813227",
+        "type": "Personal Loan",
+        "borrower": "Vivaan Vik",
+        "amount": "₹ 2,83,514",
+        "region": "West"
+      },
+      {
+        "id": 2,
+        "loan_number": "L2813228",
+        "type": "Home Loan",
+        "borrower": "Navi Sahi",
+        "amount": "₹ 1,39,765",
+        "region": "East"
+      }
+    ]
+  }
+  
